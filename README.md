@@ -13,6 +13,9 @@ This project involves a comprehensive analysis of coffee order data from 2019 to
 - **Annual Sales Trends**:
   - "Lib" emerged as the top-selling coffee type, with a particularly strong performance in 2022.
   - "Ara" and "Exc" showed stable sales, while "Rob" experienced significant variability, with a low in 2020 followed by recovery.
+  - ![Annual Sales Trends](path/to/your/image/annual_sales_trends.png)
+![Monthly Sales Trends](path/to/your/image/monthly_sales_trends.png)
+
   
 - **Monthly Sales Trends**:
   - Seasonal patterns were observed, with "Lib" peaking during the latter part of the year.
