@@ -25,7 +25,6 @@ This project involves a comprehensive analysis of coffee order data from 2019 to
 
 ## 🗂️ Project Structure
 - **Data**: The `coffeeOrdersData.xlsx` file contains the raw data used for this analysis.
-- **Scripts**: SQL queries and Python scripts used to analyze the data.
 - **Visualizations**: Graphs and charts illustrating key insights.
 
 ## 🌟 Future Work
